@@ -14,4 +14,4 @@ This project analyzes customer transaction data to identify the most profitable 
 
 ## How to Run
 ```python
-python analysis.py
+Data.ipynb
